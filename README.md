@@ -1,1 +1,2 @@
-# nogosty.github.io
+# NoGosty
+Muito Lag Nos Jogos? Foda-se
